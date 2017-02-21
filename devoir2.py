@@ -93,6 +93,7 @@ d = {
 # between technological innovation and musical culture» en format .pdf, il semble que la correction de "vix" pages liminaires soit "ix", et que celle de "ivx" soit "iv". J'ai corrigé le
 # document .csv en conséquence.
 
+
 # 3. Nous définissons ici les variables dans une boucle, de manière à ce qu'elles soient relatives à chaque ligne de l'ensemble des lignes.
 for ligne in lignes:
     # 3.1. La variable "titre" est créée pour aller chercher le titre de mémoire/thèse contenu à chaque ligne, dans la troisième colonne (donc la colonne #2). J'ai décidé de lui appliquer la
