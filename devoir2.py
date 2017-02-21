@@ -88,10 +88,10 @@ d = {
      "lxx" : "70",
 }     
 
-# 2.2 En parcourant le document .csv, Jean-Philippe Guilbault a trouvé des entrées fautives de pages liminaires. Les nombres romains fautifs "vix" et "ivx" apparaissent. Après avoir téléchargé
+# 2.2 En parcourant le document .csv, Jean-Philippe Guilbault a trouvé des entrées fautives de pages liminaires. Les nombres romains fautifs "vix" et "ivx" sont du lot. Après avoir téléchargé
 # les mémoires «Family ties : a case study of a character education program at a local Montreal elementary school» et «The design and marketing of QSound : a case study of the relationship
 # between technological innovation and musical culture» en format .pdf, il semble que la correction de "vix" pages liminaires soit "ix", et que celle de "ivx" soit "iv". J'ai corrigé le
-# document en conséquence.
+# document .csv en conséquence.
 
 # 3. Nous définissons ici les variables dans une boucle, de manière à ce qu'elles soient relatives à chaque ligne de l'ensemble des lignes.
 for ligne in lignes:
